@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @MobiTechDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+✨ Welcome to Mobi-Tech's Developer Zone ✨
 
-Welcome to Mobi-Tech's Developer Zone
 This repository contains all the code and documentation related to Mobi-Tech's software development projects. Our goal is to provide a platform for our developers to collaborate, share knowledge and build amazing products that solve real-world problems.
 
 Getting Started
@@ -28,8 +23,3 @@ License
 All code in this repository is licensed under the MIT License.
 
 Thank you for visiting our developer zone!
-
-<!---
-MobiTechDev/MobiTechDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
